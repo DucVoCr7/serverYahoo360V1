@@ -1,0 +1,6 @@
+{
+  "defaultPort": 3000,
+  "databaseFile": "database.json",
+  "jwtSecret": "duc",
+  "jwtTokenexpiresInMinutes": "120"
+}
